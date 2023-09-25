@@ -1,2 +1,4 @@
 # smalboi
-for not it is a url shortener that i need, will see if this will get somewhere else
+for not it will be a url shortener that I need, will see if will lead us somewhere else
+
+### this readme is not ready yet!
